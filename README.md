@@ -1,13 +1,12 @@
 # Netflix_Clone
-<br>
 This Netflix clone project is a front-end web development endeavor aimed at replicating the user interface and experience of the renowned streaming platform. With meticulous attention to detail in design and layout, the clone provides users with a familiar environment for browsing movies and TV shows. Utilizing HTML and CSS, the project showcases a responsive design, ensuring optimal viewing across various devices. Though lacking backend functionality and actual streaming capabilities, this project demonstrates proficiency in front-end development and serves as a showcase of skills for educational and portfolio purposes.
 <br>
 <br>
 Technologies Used:
 <br>
-HTML for structuring the web pages.
+HTML: Used for structuring the web pages.
 <br>
-CSS for styling and layout design.
+CSS: Used for styling and layout design.
 <br>
 <br>
 Purpose:
